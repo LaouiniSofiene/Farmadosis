@@ -1,0 +1,22 @@
+<template>
+  <img
+    class="vuetify-logo"
+    alt="Vuetify Logo"
+    src="/LOGO-GRUPO-FARMADOSIS.png"
+  >
+</template>
+
+<style>
+.vuetify-logo {
+  height: auto;
+  width: auto;
+  transform: rotateY(560deg);
+  animation: turn 3.5s ease-out forwards 1s;
+}
+
+@keyframes turn {
+  100% {
+    transform: rotateY(0deg);
+  }
+}
+</style>

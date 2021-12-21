@@ -1,0 +1,81 @@
+{
+    "menu": {
+        "welcome": "Inicio",
+        "products": "Productos",
+        "products_from_api": "Productos de API"
+    },
+    "home":{
+        "1": "Hola,",
+        "2": "Este es un proyecto de prueba de FARMADOSIS SL",
+        "3": "Es un proyecto desarrollado en NuxtJS con estilo de Vuetify que contiene estas diferentes características :",
+        "4": "Uso y manipulación (adición, modificación y eliminación de elementos) de arrays.",
+        "5": "Navegación entre diferentes páginas manteniendo el estado del o los arrays.",
+        "6": "Ordenación dinámica del o los arrays",
+        "7": "Filtrado dinamico del o los arrays.",
+        "8": "Utilizando Axios para algunos datos",
+        "9": "Traducción de textos con i18n"
+    },
+    "products": {
+        "title": "Productos",
+        "search": "Buscar",
+        "create": "Nuevo producto",
+        "edit": "Editar producto : ",
+        "delete":"¿Está seguro de que quiere eliminar el producto?",
+        "ok":"Ok",
+        "save":"Guardar",
+        "cancel":"Cancelar",
+        "table": {
+            "name": "Nombre del producto",
+            "price":"Precio",
+            "rate":"Califica",
+            "description":"Descripción",
+            "review":"Revise",
+            "actions":"Acciones"
+        }
+    },
+    "products_from_api": {
+        "title" : "Productos de API",
+        "search": "Buscar",
+        "create": "Nuevo producto",
+        "edit": "Editar producto",
+        "delete":"¿Está seguro de que quiere eliminar el producto?",
+        "ok":"Ok",
+        "save":"Guardar",
+        "cancel":"Cancelar",
+        "table":{
+            "recalling_firm" : "Empresa de recobro",
+            "country": "País",
+            "city": "Ciudad",
+            "address_1": "Dirección 1",
+            "product_quantity" : "Cantidad de productos",
+            "product_type": "Tipo de producto",
+            "status": "Estado",
+            "actions" : "Acciones"
+        },
+        "form":{
+            "country": "País",
+            "city": "Ciudad",
+            "address_1": "Dirección 1",
+            "address_2": "Dirección 2",
+            "postal_code": "Código postal",
+            "product_quantity" : "Cantidad de productos",
+            "center_classification_date": "Fecha de clasificación del centro",
+            "distribution_pattern" : "Patrón de distribución",
+            "state" : "Estadodeclarar",
+            "report_date": "Fecha del informe",
+            "classification": "Clasificación",
+            "recalling_firm" : "Empresa de recobro",
+            "product_type": "Tipo de producto",
+            "event_id": "ID del evento",
+            "termination_date": "Fecha de finalización",
+            "recall_initiation_date": "Fecha de inicio de la retirada",
+            "recall_number" : "Número de retirada",
+            "voluntary_mandated": "Obligación voluntaria",
+            "status": "Estado",
+            "initial_firm_notification": "Notificación inicial de la empresa",
+            "product_description": "Descripción del producto",
+            "code_info": "Información del código",
+            "reason_for_recall": "Motivo de la retirada"
+        }
+    }
+}
